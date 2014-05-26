@@ -14,7 +14,7 @@
     <author href="http://www.vipulism.net" email="hi@vipulism.net">
          Vipul 
     </author>
-    <preference name="Fullscreen" value="true" />
+    
 
      <icon src="icon.png" />
   <preference name="phonegap-version"           value="3.4.0" />          <!-- all: current version of PhoneGap -->
