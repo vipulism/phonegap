@@ -5,16 +5,19 @@
         versionCode = "10"
         version     = "1.0.0">
  
-    <name>Phone gap test</name>
+    <name>FaltuApp</name>
  
     <description>
         A simple employee directory application
     </description>
  
-    <author href="http://www.wispa.com.au" email="cheng@wispa.com.au">
-        Cheng 
+    <author href="http://www.vipulism.net" email="hi@vipulism.net">
+         Vipul 
     </author>
- 
+    <preference name="Fullscreen" value="true" />
+
+     <icon src="icon.png" />
+
     <feature name="http://api.phonegap.com/1.0/camera"/>
     <feature name="http://api.phonegap.com/1.0/contacts"/>
     <feature name="http://api.phonegap.com/1.0/file"/>
